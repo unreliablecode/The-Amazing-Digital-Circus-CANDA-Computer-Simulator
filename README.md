@@ -41,5 +41,5 @@ Feel free to check out my other coding projects and content here:
 
 ---
 <div align="center">
-  <i>Developed by Harlie</i>
+  <i>Developed by unreliablecode (Harley)</i>
 </div>
